@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "5.1.9+dfsg1-1"
     },
-    "CreationDate":  "2021-06-27T14:33:47+01:00"
+    "CreationDate":  "2021-07-03T18:11:36+01:00"
   },
   "GeneralSpecs":
   {
@@ -15,7 +15,7 @@
     {
       "Name": "sjspi",
       "GUID": "736a7370-692e-46b6-9963-61645f706362",
-      "Revision": "v0.3"
+      "Revision": "v1.0"
     },
     "Size":
     {

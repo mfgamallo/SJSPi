@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "SJSPi"
-Date "2021-06-27"
-Rev "v0.3"
+Date "2021-07-03"
+Rev "v1.0"
 Comp ""
 Comment1 ""
 Comment2 "creativecommons.org/licenses/by/4.0/"
