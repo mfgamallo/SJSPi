@@ -13,7 +13,7 @@ class Gpio:
     PI_FIRE = 29
 
     def __init__(self):
-        self.state = JoystickState()
+        self.state = State()
 
         GPIO.setmode(GPIO.BOARD)
 
