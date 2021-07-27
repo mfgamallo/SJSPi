@@ -2,7 +2,7 @@
 Concentrates all interaction with rhe Raspberry PI GPIO interface
 """
 from RPi import GPIO
-from joystick import State
+from joy import State
 
 class Gpio:
     
