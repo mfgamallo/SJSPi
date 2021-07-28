@@ -9,5 +9,12 @@ Make it work:
 
 $ cd python
 $ python3 -m venv ./venv
+$ . ./venv/bin/activate
 $ pip3 install evdev
 $ pip3 install rpi.gpio
+$ python3 main.py
+
+To make it autostart on the Pi:
+
+Clone project in /home/pi/SJSPi
+Use sjspi.service to install systemd service
